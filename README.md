@@ -17,7 +17,7 @@ Inspired by the famous official website [amazon](https://www.amazon.fr)
 ## Screenshots
 <p align="center">
 <img
-		width="210"
+		width="360"
 		alt="Capture 1"
 		src="https://github.com/Regisnut/clone__amazon/blob/main/public/kapture1.png">
 

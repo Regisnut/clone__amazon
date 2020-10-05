@@ -1,7 +1,7 @@
 import firebase from "firebase";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCRrrJ5j0pjQsDhilJe72YWr5wiXyZmvaY",
+  apiKey: process.env.FIREBASE_API_KEY,
   authDomain: "start-next.firebaseapp.com",
   databaseURL: "https://start-next.firebaseio.com",
   projectId: "start-next",
