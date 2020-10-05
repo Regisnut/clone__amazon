@@ -1,68 +1,72 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h2 align="center">AMAZON CLONE PROJET</h2>
 
-## Available Scripts
+<p align="center">
+<img alt="gif" src="https://github.com/Regisnut/clone__amazon/blob/master/assets/Kapture.gif" width="800">
+</p>
 
-In the project directory, you can run:
+<p>demo : https://start-next.web.app/ </p>
 
-### `yarn start`
+## Overview
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Clone du site Amazon pour un projet Front-end.
+Pages are availables : Login, Home, Checkout, Payment and Order.
+Authentification with firebase.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+Inspired by the famous official website [amazon](https://www.amazon.fr)
 
-### `yarn test`
+## Screenshots
+<p align="center">
+<img
+		width="210"
+		alt="Capture 1"
+		src="https://github.com/Regisnut/clone__amazon/blob/master/src/assets/kapture1.png">
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+</p>
 
-### `yarn build`
+## 🌱 Installation
+[![npm](https://img.shields.io/npm/v/styled-media-query.svg)]()
+[![npm](https://img.shields.io/npm/l/styled-media-query.svg)]()
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Clone the repository :
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+```
+git clone https://github.com/regisnut/clone__amazon.git 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+cd clone__amazon
+```
 
-### `yarn eject`
+Install package :
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+```
+npm install
+```
+or
+```
+yarn
+```
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🍃 Launch the project
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+When installation is complete :
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+```
+npm start
+```
 
-## Learn More
+## 🌼 dependencies
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
++ React-router
++ Moment
++ Axios
++ Firebase
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## License contact
 
-### Code Splitting
+==License, Copyright © 2020==
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+[MY LINK GITHUB](https://github.com/regisnut).
+---
 
-### Analyzing the Bundle Size
+[![with-love](https://img.shields.io/badge/made%20with-%F0%9F%92%8C-red.svg)](https://github.com/regisnut/clone__amazon)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+---
