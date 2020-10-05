@@ -1,7 +1,7 @@
 <h2 align="center">AMAZON CLONE PROJET</h2>
 
 <p align="center">
-<img alt="gif" src="https://github.com/Regisnut/clone__amazon/blob/master/assets/Kapture.gif" width="800">
+<img alt="gif" src="https://github.com/Regisnut/clone__amazon/blob/main/public/Kapture.gif" width="800">
 </p>
 
 <p>demo : https://start-next.web.app/ </p>
@@ -19,7 +19,7 @@ Inspired by the famous official website [amazon](https://www.amazon.fr)
 <img
 		width="210"
 		alt="Capture 1"
-		src="https://github.com/Regisnut/clone__amazon/blob/master/src/assets/kapture1.png">
+		src="https://github.com/Regisnut/clone__amazon/blob/main/src/public/kapture1.png">
 
 </p>
 
