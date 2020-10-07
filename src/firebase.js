@@ -1,7 +1,8 @@
 import firebase from "firebase";
 
+
 const firebaseConfig = {
-  apiKey: process.env.FIREBASE_API_KEY,
+  apiKey: process.env.REACT_APP_FIREBASE_API_KEY,
   authDomain: "start-next.firebaseapp.com",
   databaseURL: "https://start-next.firebaseio.com",
   projectId: "start-next",
@@ -16,3 +17,5 @@ const db = firebaseApp.firestore();
 const auth = firebase.auth();
 
 export {db, auth};
+
+ 
